@@ -28,4 +28,4 @@
 
 ## Authors
 
-*   Omar El Hajj(ose6432@nyu.edu), Abdulraheem Arar(aa10947@nyu.edu), Jehyung Han(jh8773@nyu.edu).
+* Abdulraheem Arar(aa10947@nyu.edu), Omar El Hajj(ose6432@nyu.edu), Jehyung Han(jh8773@nyu.edu).
