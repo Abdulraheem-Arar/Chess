@@ -6,7 +6,8 @@
 
 ## Files
 *   main.cpp
-*   generalfunctions.h
+*   header.h
+  
 
 
 ## Game Instructions
